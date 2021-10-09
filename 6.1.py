@@ -1,4 +1,3 @@
-
 k=0
 try:
 	user_array = str(input("Please enter the items, separated by commas and gaps: "))
